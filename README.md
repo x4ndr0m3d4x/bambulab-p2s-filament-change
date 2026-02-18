@@ -36,7 +36,8 @@ Tested with [this model](https://makerworld.com/en/models/1292793-ikea-alex-70x3
 
 ## Setup
 
-> **Note:** This script replaces the "Change filament G-code" in Bambu Studio's machine settings. It must be configured before slicing.
+> [!NOTE]
+> This script replaces the "Change filament G-code" in Bambu Studio's machine settings. It must be configured before slicing.
 
 1. Open the file you want to print in **Bambu Studio**
 2. Open **Machine Settings** (pencil icon in the top right corner of the printer icon)
